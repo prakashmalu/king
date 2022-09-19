@@ -1,1 +1,1 @@
-# king
+Sevlet + JSP + JDBC SIGNUP PROJECT
