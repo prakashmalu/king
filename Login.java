@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 /**
- * Servlet implementation class Login using Servelt
+ * Servlet implementation class Login using Servlet
  */
 @WebServlet("/login")
 public class Login extends HttpServlet {
